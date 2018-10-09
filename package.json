@@ -30,7 +30,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://vivan.github.io/myflickr",
   "devDependencies": {
     "gh-pages": "^2.0.0"
   },
