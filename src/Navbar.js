@@ -51,7 +51,7 @@ export default class Example extends React.Component {
                     <NavLink href="/">Explore</NavLink>
                     </NavItem>
                     <NavItem>
-                    <NavLink href="/searchTag">Search Tag</NavLink>
+                    <NavLink href="https://github.com/thanhdai261097/flickr_2">github</NavLink>
                     </NavItem>
                 </Nav>
                 </Collapse>
