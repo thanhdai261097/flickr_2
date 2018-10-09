@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import SearchInput, {createFilter} from 'react-search-input'
+import React from 'react';
 import {
     Collapse,
     Navbar,
